@@ -1,0 +1,85 @@
+-- Found Git: C:/Espressif/tools/idf-git/2.34.2/cmd/git.exe (found version "2.34.1.windows.1") 
+-- Initialising new submodule components/bootloader/subproject/components/micro-ecc/micro-ecc...
+Submodule path 'components/bootloader/subproject/components/micro-ecc/micro-ecc': checked out 'd037ec89546fad14b5c4d5456c2e23a71e554966'
+-- Initialising new submodule components/bt/controller/lib_esp32...
+Submodule path 'components/bt/controller/lib_esp32': checked out '9c5686aaa35436d255459312b14fb0da339c656a'
+-- Initialising new submodule components/bt/controller/lib_esp32c2/esp32c2-bt-lib...
+Submodule path 'components/bt/controller/lib_esp32c2/esp32c2-bt-lib': checked out '37a95345db97a6c6ebde522e4be0ab06c751a575'
+-- Initialising new submodule components/bt/controller/lib_esp32c3_family...
+Submodule path 'components/bt/controller/lib_esp32c3_family': checked out '723f44c70ceea734bb9075b3c59993103d1dac23'
+-- Initialising new submodule components/bt/controller/lib_esp32h2/esp32h2-bt-lib...
+Submodule path 'components/bt/controller/lib_esp32h2/esp32h2-bt-lib': checked out '8bf4c4c2cb1f964122977c9995863f325346411d'
+-- Initialising new submodule components/bt/host/nimble/nimble...
+Submodule path 'components/bt/host/nimble/nimble': checked out 'df2b82880e7ff25d7ed93ce1fc89d813d00b6810'
+-- Initialising new submodule components/cmock/CMock...
+Submodule path 'components/cmock/CMock': checked out 'eeecc49ce8af123cf8ad40efdb9673e37b56230f'
+Submodule path 'components/cmock/CMock/vendor/c_exception': checked out '71b47be7c950f1bf5f7e5303779fa99a16224bb6'
+Submodule path 'components/cmock/CMock/vendor/unity': checked out 'cf949f45ca6d172a177b00da21310607b97bc7a7'
+-- Initialising new submodule components/esp_phy/lib...
+Submodule path 'components/esp_phy/lib': checked out '3daf842446056002dcdb12866001c3d567f1abd9'
+-- Initialising new submodule components/esp_wifi/lib...
+Submodule path 'components/esp_wifi/lib': checked out '86c783a90479aa6f7b602775ba7fe9c3d97438ee'
+-- Initialising new submodule components/heap/tlsf...
+Submodule path 'components/heap/tlsf': checked out '8c9cd0517adf99e363812e9a295dfe3898fdd345'
+-- Initialising new submodule components/ieee802154/lib...
+Submodule path 'components/ieee802154/lib': checked out '56a56502a037c8196d2b5dd5790bb90ff60d9d0e'
+-- Initialising new submodule components/json/cJSON...
+Submodule path 'components/json/cJSON': checked out 'd348621ca93571343a56862df7de4ff3bc9b5667'
+-- Initialising new submodule components/lwip/lwip...
+Submodule path 'components/lwip/lwip': checked out '705dd71d46779bf29653f1f1d7b1af5a09fb2aa7'
+-- Initialising new submodule components/mbedtls/mbedtls...
+Submodule path 'components/mbedtls/mbedtls': checked out '7b428b1bf260ce1fec4e3ffb6494070d439a3a67'
+-- Initialising new submodule components/mqtt/esp-mqtt...
+Submodule path 'components/mqtt/esp-mqtt': checked out 'ae53d799da294f03ef65c33e88fa33648e638134'
+-- Initialising new submodule components/openthread/lib...
+Submodule path 'components/openthread/lib': checked out '6a863c104ef982df8dfc0a499588c4334528b86c'
+-- Initialising new submodule components/openthread/openthread...
+Submodule path 'components/openthread/openthread': checked out 'e64ba13faa865aa7febd5cb7dc7eb52ff19a2c5c'
+-- Initialising new submodule components/protobuf-c/protobuf-c...
+Submodule path 'components/protobuf-c/protobuf-c': checked out 'abc67a11c6db271bedbb9f58be85d6f4e2ea8389'
+-- Initialising new submodule components/spiffs/spiffs...
+Submodule path 'components/spiffs/spiffs': checked out '0dbb3f71c5f6fae3747a9d935372773762baf852'
+-- Initialising new submodule components/unity/unity...
+Submodule path 'components/unity/unity': checked out '7d2bf62b7e6afaf38153041a9d53c21aeeca9a25'
+-- ccache will be used for faster recompilation
+-- The C compiler identification is GNU 11.2.0
+-- The CXX compiler identification is GNU 11.2.0
+-- The ASM compiler identification is GNU
+-- Found assembler: C:/Espressif/tools/xtensa-esp32s3-elf/esp-2022r1-11.2.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc.exe
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: C:/Espressif/tools/xtensa-esp32s3-elf/esp-2022r1-11.2.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Detecting CXX compiler ABI info
+-- Detecting CXX compiler ABI info - done
+-- Check for working CXX compiler: C:/Espressif/tools/xtensa-esp32s3-elf/esp-2022r1-11.2.0/xtensa-esp32s3-elf/bin/xtensa-esp32s3-elf-g++.exe - skipped
+-- Detecting CXX compile features
+-- Detecting CXX compile features - done
+-- Building ESP-IDF components for target esp32s3
+-- Project sdkconfig file C:/Users/Emil/Documents/ESP-S3-Test/projects/hello_world/sdkconfig
+-- Looking for sys/types.h
+-- Looking for sys/types.h - found
+-- Looking for stdint.h
+-- Looking for stdint.h - found
+-- Looking for stddef.h
+-- Looking for stddef.h - found
+-- Check size of time_t
+-- Check size of time_t - done
+-- Found Python3: C:/Espressif/python_env/idf5.1_py3.8_env/Scripts/python.exe (found version "3.8.7") found components: Interpreter 
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS
+-- Performing Test C_COMPILER_SUPPORTS_WFORMAT_SIGNEDNESS - Success
+-- App "hello_world" version: 526db49
+-- Adding linker script C:/Users/Emil/Documents/ESP-S3-Test/projects/hello_world/build/esp-idf/esp_system/ld/memory.ld
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/esp_system/ld/esp32s3/sections.ld.in
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.ld
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.api.ld
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.libgcc.ld
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.newlib.ld
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/esp_rom/esp32s3/ld/esp32s3.rom.version.ld
+-- Adding linker script C:/Users/Emil/Documents/esp-idf/components/soc/esp32s3/ld/esp32s3.peripherals.ld
+-- Components: app_trace app_update bootloader bootloader_support bt cmock console cxx driver efuse esp-tls esp_adc esp_app_format esp_common esp_eth esp_event esp_gdbstub esp_hid esp_http_client esp_http_server esp_https_ota esp_https_server esp_hw_support esp_lcd esp_local_ctrl esp_netif esp_partition esp_phy esp_pm esp_psram esp_ringbuf esp_rom esp_system esp_timer esp_wifi espcoredump esptool_py fatfs freertos hal heap http_parser idf_test ieee802154 json log lwip main mbedtls mqtt newlib nvs_flash openthread partition_table perfmon protobuf-c protocomm pthread sdmmc soc spi_flash spiffs tcp_transport touch_element ulp unity usb vfs wear_levelling wifi_provisioning wpa_supplicant xtensa
+-- Component paths: C:/Users/Emil/Documents/esp-idf/components/app_trace C:/Users/Emil/Documents/esp-idf/components/app_update C:/Users/Emil/Documents/esp-idf/components/bootloader C:/Users/Emil/Documents/esp-idf/components/bootloader_support C:/Users/Emil/Documents/esp-idf/components/bt C:/Users/Emil/Documents/esp-idf/components/cmock C:/Users/Emil/Documents/esp-idf/components/console C:/Users/Emil/Documents/esp-idf/components/cxx C:/Users/Emil/Documents/esp-idf/components/driver C:/Users/Emil/Documents/esp-idf/components/efuse C:/Users/Emil/Documents/esp-idf/components/esp-tls C:/Users/Emil/Documents/esp-idf/components/esp_adc C:/Users/Emil/Documents/esp-idf/components/esp_app_format C:/Users/Emil/Documents/esp-idf/components/esp_common C:/Users/Emil/Documents/esp-idf/components/esp_eth C:/Users/Emil/Documents/esp-idf/components/esp_event C:/Users/Emil/Documents/esp-idf/components/esp_gdbstub C:/Users/Emil/Documents/esp-idf/components/esp_hid C:/Users/Emil/Documents/esp-idf/components/esp_http_client C:/Users/Emil/Documents/esp-idf/components/esp_http_server C:/Users/Emil/Documents/esp-idf/components/esp_https_ota C:/Users/Emil/Documents/esp-idf/components/esp_https_server C:/Users/Emil/Documents/esp-idf/components/esp_hw_support C:/Users/Emil/Documents/esp-idf/components/esp_lcd C:/Users/Emil/Documents/esp-idf/components/esp_local_ctrl C:/Users/Emil/Documents/esp-idf/components/esp_netif C:/Users/Emil/Documents/esp-idf/components/esp_partition C:/Users/Emil/Documents/esp-idf/components/esp_phy C:/Users/Emil/Documents/esp-idf/components/esp_pm C:/Users/Emil/Documents/esp-idf/components/esp_psram C:/Users/Emil/Documents/esp-idf/components/esp_ringbuf C:/Users/Emil/Documents/esp-idf/components/esp_rom C:/Users/Emil/Documents/esp-idf/components/esp_system C:/Users/Emil/Documents/esp-idf/components/esp_timer C:/Users/Emil/Documents/esp-idf/components/esp_wifi C:/Users/Emil/Documents/esp-idf/components/espcoredump C:/Users/Emil/Documents/esp-idf/components/esptool_py C:/Users/Emil/Documents/esp-idf/components/fatfs C:/Users/Emil/Documents/esp-idf/components/freertos C:/Users/Emil/Documents/esp-idf/components/hal C:/Users/Emil/Documents/esp-idf/components/heap C:/Users/Emil/Documents/esp-idf/components/http_parser C:/Users/Emil/Documents/esp-idf/components/idf_test C:/Users/Emil/Documents/esp-idf/components/ieee802154 C:/Users/Emil/Documents/esp-idf/components/json C:/Users/Emil/Documents/esp-idf/components/log C:/Users/Emil/Documents/esp-idf/components/lwip C:/Users/Emil/Documents/ESP-S3-Test/projects/hello_world/main C:/Users/Emil/Documents/esp-idf/components/mbedtls C:/Users/Emil/Documents/esp-idf/components/mqtt C:/Users/Emil/Documents/esp-idf/components/newlib C:/Users/Emil/Documents/esp-idf/components/nvs_flash C:/Users/Emil/Documents/esp-idf/components/openthread C:/Users/Emil/Documents/esp-idf/components/partition_table C:/Users/Emil/Documents/esp-idf/components/perfmon C:/Users/Emil/Documents/esp-idf/components/protobuf-c C:/Users/Emil/Documents/esp-idf/components/protocomm C:/Users/Emil/Documents/esp-idf/components/pthread C:/Users/Emil/Documents/esp-idf/components/sdmmc C:/Users/Emil/Documents/esp-idf/components/soc C:/Users/Emil/Documents/esp-idf/components/spi_flash C:/Users/Emil/Documents/esp-idf/components/spiffs C:/Users/Emil/Documents/esp-idf/components/tcp_transport C:/Users/Emil/Documents/esp-idf/components/touch_element C:/Users/Emil/Documents/esp-idf/components/ulp C:/Users/Emil/Documents/esp-idf/components/unity C:/Users/Emil/Documents/esp-idf/components/usb C:/Users/Emil/Documents/esp-idf/components/vfs C:/Users/Emil/Documents/esp-idf/components/wear_levelling C:/Users/Emil/Documents/esp-idf/components/wifi_provisioning C:/Users/Emil/Documents/esp-idf/components/wpa_supplicant C:/Users/Emil/Documents/esp-idf/components/xtensa
+-- Configuring done
+-- Generating done
+-- Build files have been written to: C:/Users/Emil/Documents/ESP-S3-Test/projects/hello_world/build
